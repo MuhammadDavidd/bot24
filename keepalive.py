@@ -3,7 +3,7 @@ from mcstatus import MinecraftServer
 import threading
 
 # Ganti ip dan port server kalian
-server_address = "ip_server:port"
+server_address = "iwancool.aternos.me:50659"
 
 # Interval ping dalam detik
 interval = 300  # 5 menit
